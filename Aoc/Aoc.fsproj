@@ -9,9 +9,11 @@
         <Compile Include="Parsing.fs" />
         <Compile Include="Day1.fs" />
         <Compile Include="Day2.fs" />
+        <Compile Include="Day3.fs" />
         <Compile Include="Program.fs" />
         <Content Include="data\day1.txt" />
         <Content Include="data\day2.txt" />
+        <Content Include="data\day3.txt" />
     </ItemGroup>
 
 </Project>
